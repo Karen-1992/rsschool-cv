@@ -8,8 +8,7 @@
 + **Telegram**: karen_habuzian
 
 ## About me
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+I'm Karen, I'm 29 years old. I'm looking for opportunities to start working as a Frontend Developer.
 
 ## Skills
 * HTML
