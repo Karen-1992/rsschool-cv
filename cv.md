@@ -1,7 +1,7 @@
 # Karen Habuzian
 
 ## Contacts
-+ #### Location ####: Mogilev, Belarus
++ #### Location #### : Mogilev, Belarus
 + Phone: +375297653482
 + Email: karen.gabuzyan@gmail.com
 + GitHub: Karen-1992
