@@ -1,21 +1,17 @@
 # Karen Habuzian
-====
 
 ## Contacts
-====
-+ ####Location####: Mogilev, Belarus
++ #### Location ####: Mogilev, Belarus
 + Phone: +375297653482
 + Email: karen.gabuzyan@gmail.com
 + GitHub: Karen-1992
 + Telegram: karen_habuzian
 
 ## About me
-====
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
 ## Skills
-===
 * HTML
 * CSS
 * JavaScript
@@ -26,7 +22,6 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * MongoDB
 
 ## Code Example
-===
 ```
 function arrayDiff(a, b) {
     const newArr = a.reduce((acc, item) => {
@@ -39,13 +34,11 @@ function arrayDiff(a, b) {
 }
 ```
 ## Education
-===
 * University: Belarusian-Russian University, Hoisting and transport road construction machines and equipment
 * Courses:
     + [Result School](https://result.school/)
 
 ## Languages
-===
++ Russian: native speaker
 + English: B1(in process)
-+ Russian: native
 + Belarussian: advanced
