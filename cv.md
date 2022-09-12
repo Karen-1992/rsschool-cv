@@ -8,7 +8,7 @@
 + **Telegram**: karen_habuzian
 
 ## About me
-I'm Karen, I'm 29 years old. I'm looking for opportunities to start working as a Frontend Developer.
+Hi, I'm Karen. I'm looking for opportunities to start working as a Frontend Developer.
 
 ## Skills
 * HTML
